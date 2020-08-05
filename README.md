@@ -1,5 +1,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MasanoriIwakura)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasanoriIwakura)](https://github.com/anuraghazra/github-readme-stats)
+
 # About Me
 
 I am a full stack software engineer.
@@ -38,6 +40,7 @@ I am a full stack software engineer.
 - Oracle 11g, 12c
 - Varnish
 - Vagrant
+- Ansible
 
 ## OS
 
