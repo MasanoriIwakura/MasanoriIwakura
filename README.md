@@ -16,13 +16,18 @@ I am a full stack software engineer.
   - React
     - (Next.js)
   - TypeScript
+  - Express
+  - Puppeteer
 - PHP
   - Laravel
+  - CakePHP 4
 - Ruby
   - Ruby on Rails
 - C#
+  - ASP.NET WebForm/MVC
   - ASP.NET Core
 - Java
+  - Java EE
   - Spring Boot
 - C/C++
 - (Python)
@@ -53,3 +58,6 @@ I am a full stack software engineer.
 ## Infrastructures
 
 - AWS [(SAA)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-05-27&ci=AWS00899713)
+  - EC2
+  - Lightsail
+  - RDS
