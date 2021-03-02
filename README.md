@@ -19,7 +19,7 @@ I am a full stack software engineer.
   - Express
   - Puppeteer
 - PHP
-  - Laravel
+  - Laravel 5
   - CakePHP 4
 - Ruby
   - Ruby on Rails
@@ -46,6 +46,7 @@ I am a full stack software engineer.
 - Varnish
 - Vagrant
 - Ansible
+- Terraform
 
 ## OS
 
@@ -61,3 +62,4 @@ I am a full stack software engineer.
   - EC2
   - Lightsail
   - RDS
+  - Cognito
