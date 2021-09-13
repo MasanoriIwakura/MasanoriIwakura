@@ -93,7 +93,8 @@ https://booth.pm/ja/items/1555055
   - MinIO(Local S3)
   - LocalStack(Local AWS)
 - GCP
-  - Google Cloud Storage
+  - GCS
+  - BigQuery
 - Firebase
   - Auth
   - Hosting
