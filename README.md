@@ -22,23 +22,33 @@ https://booth.pm/ja/items/1555055
   - Vue.js
     - Nuxt.js
   - React
-    - (Next.js)
+    - Next.js
   - TypeScript
   - Express
   - Puppeteer
-- PHP
+- PHP 7
   - Laravel 5
   - CakePHP 4
-- Ruby
+- Ruby 2.x
   - Ruby on Rails 5, 6
+  - Capistrano
+  - RSpec
+  - Sidekiq
+  - Searchkiq
+  - RuboCop
+  - ruby-vips
 - C#
   - ASP.NET WebForm/MVC
   - ASP.NET Core
-- Java
+- Java ~11
   - Java EE
   - Spring Boot
+  - MyBatis
 - C/C++
-- (Python)
+- Python 3.x
+  - Jinja2
+  - Jupyter Notebook
+  - OpenCV
   - (Flask)
   - (Django)
 
@@ -48,7 +58,7 @@ https://booth.pm/ja/items/1555055
   - Docker Compose
 - Nginx
 - Redis
-- Elasticsearch 6
+- Elasticsearch 6, 7
 - Mysql 5, 7
 - Oracle 11g, 12c
 - Varnish
@@ -67,7 +77,7 @@ https://booth.pm/ja/items/1555055
 
 ## Infrastructures
 
-- AWS [(SAA)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-05-27&ci=AWS00899713)
+- AWS (ソリューションアーキテクト-アソシエイト所持)
   - EC2
   - Lightsail
   - RDS(Aurora)
@@ -76,3 +86,16 @@ https://booth.pm/ja/items/1555055
   - ECR
   - S3
   - Amplify
+  - CloudFront
+  - CloudWatch
+  - Elasticsearch Service
+  - Elasticache(Redis)
+  - MinIO(Local S3)
+  - LocalStack(Local AWS)
+- GCP
+  - Google Cloud Storage
+- Firebase
+  - Auth
+  - Hosting
+  - Realtime Database
+  - Cloud Functions
