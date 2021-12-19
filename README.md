@@ -26,6 +26,7 @@ https://booth.pm/ja/items/1555055
   - TypeScript
   - Express
   - Puppeteer
+  - Sequelize
 - PHP 7
   - Laravel 5
   - CakePHP 4
@@ -69,7 +70,7 @@ https://booth.pm/ja/items/1555055
 
 ## OS
 
-- Ubuntu 18, 20
+- Ubuntu 18, 20 ※メイン開発環境
 - CentOS 7
 - Amazon Linux 2
 - Alpine Linux
@@ -88,7 +89,7 @@ https://booth.pm/ja/items/1555055
   - Amplify
   - CloudFront
   - CloudWatch
-  - Elasticsearch Service
+  - Opensearch Service(Elasticsearch Service)
   - Elasticache(Redis)
   - MinIO(Local S3)
   - LocalStack(Local AWS)
