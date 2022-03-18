@@ -6,7 +6,7 @@
 
 # About Me
 
-I am a full stack software engineer.
+I am a web based full stack software engineer.
 
 # Books
 
@@ -18,13 +18,13 @@ https://booth.pm/ja/items/1555055
 
 # Skils
 
-## Languages and Frameworks
+## Languages and Frameworks (Current)
 
 - JavaScript
-  - Vue.js
-    - Nuxt.js
   - React
     - Next.js
+  - Vue.js
+    - Nuxt.js
   - TypeScript
   - Express
   - Puppeteer
@@ -40,6 +40,12 @@ https://booth.pm/ja/items/1555055
   - Searchkiq
   - RuboCop
   - ruby-vips
+- Go
+
+## Languages and Frameworks (Old)
+
+※以下は現役では無いです
+
 - C#
   - ASP.NET WebForm/MVC
   - ASP.NET Core
@@ -63,6 +69,7 @@ https://booth.pm/ja/items/1555055
 - Redis
 - Elasticsearch 6, 7
 - Mysql 5, 7
+- PosgrreSQL
 - Oracle 11g, 12c
 - Varnish
 - Vagrant
@@ -77,10 +84,11 @@ https://booth.pm/ja/items/1555055
 - Amazon Linux 2
 - Alpine Linux
 - Debian(Raspbian)
+- macOS
 
 ## Infrastructures
 
-- AWS (ソリューションアーキテクト-アソシエイト所持)
+- AWS
   - EC2
   - Lightsail
   - RDS(Aurora)
@@ -103,3 +111,4 @@ https://booth.pm/ja/items/1555055
   - Hosting
   - Realtime Database
   - Cloud Functions
+- Fastly
