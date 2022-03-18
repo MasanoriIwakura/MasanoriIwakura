@@ -18,9 +18,11 @@ https://booth.pm/ja/items/1555055
 
 # Skils
 
+※太字は得意分野
+
 ## Languages and Frameworks (Current)
 
-- JavaScript
+- **JavaScript**
   - React
     - Next.js
   - Vue.js
@@ -29,10 +31,7 @@ https://booth.pm/ja/items/1555055
   - Express
   - Puppeteer
   - Sequelize
-- PHP 7
-  - Laravel 5
-  - CakePHP 4
-- Ruby 2.x
+- **Ruby 2.x**
   - Ruby on Rails 5, 6
   - Capistrano
   - RSpec
@@ -40,6 +39,9 @@ https://booth.pm/ja/items/1555055
   - Searchkiq
   - RuboCop
   - ruby-vips
+- PHP 7
+  - Laravel 5
+  - CakePHP 4
 - Go
 
 ## Languages and Frameworks (Old)
