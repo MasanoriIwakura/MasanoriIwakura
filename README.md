@@ -25,7 +25,7 @@ https://booth.pm/ja/items/1555055
 - **JavaScript**
   - React
     - Next.js
-  - Vue.js
+  - Vue.js(3x)
     - Nuxt.js
   - TypeScript
   - Express
@@ -40,7 +40,7 @@ https://booth.pm/ja/items/1555055
   - RuboCop
   - ruby-vips
 - PHP 7
-  - Laravel 5
+  - Laravel 5~9
   - CakePHP 4
 - Go
 
