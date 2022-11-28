@@ -39,7 +39,7 @@ https://booth.pm/ja/items/1555055
   - Searchkiq
   - RuboCop
   - ruby-vips
-- PHP 7
+- PHP 7,8
   - Laravel 5~9
   - CakePHP 4
 - Go
