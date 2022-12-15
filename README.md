@@ -4,6 +4,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MasanoriIwakura&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 # About Me
 
 I am a web based full stack software engineer.
