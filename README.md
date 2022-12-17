@@ -6,7 +6,7 @@
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/IOYGUNF" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.36&b=2.85&i=3.32&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 12/16/2022, 12:32:29 AM UTC
+Last Updated on 12/17/2022, 12:30:30 AM UTC
 <!--END_SECTION:lapras-card-->
 
 # About Me
