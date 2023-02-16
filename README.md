@@ -5,8 +5,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MasanoriIwakura&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/IOYGUNF" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.41&b=2.85&i=3.35&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 2/15/2023, 12:35:48 AM
+<a href="https://lapras.com/public/IOYGUNF" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.41&b=3.48&i=3.36&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 2/16/2023, 12:35:59 AM
 <!--END_SECTION:lapras-card-->
 
 # About Me
