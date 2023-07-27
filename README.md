@@ -6,7 +6,7 @@
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/IOYGUNF" target="_blank" rel="noopener noreferrer"><img alt="IOYGUNFのLAPRASでのスコアは次の通りです: エンジニアリング: 3.54 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.4 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.54&b=3.48&i=3.4&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 7/26/2023, 12:35:38 AM</p>
+Last Updated on 7/27/2023, 12:34:17 AM</p>
 <!--END_SECTION:lapras-card-->
 
 # About Me
